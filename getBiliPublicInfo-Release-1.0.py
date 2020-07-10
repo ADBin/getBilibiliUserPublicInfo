@@ -2,7 +2,7 @@ import urllib.request
 import json
 import re
 
-vuid="18905641"
+vuid=""
 role_base_url="https://api.bilibili.com/x/space/acc/info"
 follow_base_url="https://api.bilibili.com/x/relation/stat" 
 view_base_url="https://api.bilibili.com/x/space/upstat"
